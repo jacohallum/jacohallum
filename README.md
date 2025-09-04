@@ -31,7 +31,3 @@ I also enjoy making games. One of my favorite personal projects is **[PipeMan](h
 ### 📫 Connect with Me
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jacobhallum) — I’m always open to sharing ideas, feedback, or collaboration opportunities.
-
----
-
-Let me know if you want to add GitHub stats, pinned repos, or badges for deployed apps or CI/CD status.
