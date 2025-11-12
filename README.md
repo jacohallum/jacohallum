@@ -36,10 +36,6 @@ Highlights:
 * Real-time updates for decisions and finishes
 * Persistent cache and rate-limited API polling for stability
 
-## 🎮 PipeMan
-
-**[PipeMan](https://jcbh0.itch.io/pipeman)** is a puzzle platformer I created with an experimental control system and a simple, hand-drawn style.
-
 ---
 
 ### 📫 Connect
