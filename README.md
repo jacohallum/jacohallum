@@ -1,7 +1,3 @@
-Got it — here’s your revised **README**, separating the *UFC Fight Tracker* and *UFC Event Tracker* projects clearly, written in your requested plain and confident style (Flesch 80+, no buzzwords, no adverbs, active voice):
-
----
-
 # 👋 Jacob Hallum
 
 Hi, I’m Jacob Hallum — a software developer who builds real-time systems and sports applications. I focus on creating tools that deliver live data, smooth performance, and reliable results.
