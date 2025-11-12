@@ -1,33 +1,52 @@
-# 👋 Jacob Hallum
-
-Hi there! I’m Jacob Hallum — a software developer with a strong focus on building sports applications and real-time systems.
-
-## ⚽ GameWatchr (In Progress)
-
-I’m currently working on **[GameWatchr](https://github.com/jacohallum/GameWatchr)**, a personalized sports website designed to give users full control over notifications, team tracking, and event highlights across all major sports. The project includes full-stack development using:
-
-* **Next.js** with **TypeScript**
-* **PostgreSQL** and **Prisma**
-* Secure authentication with **NextAuth**
-* Planned AI features like smart alerts and sentiment analysis
-
-## 🥋 UFC Live Event Tracker
-
-In parallel, I’ve developed a **UFC Fight Tracker**, which offers:
-
-* **Live event detection**
-* **Round-by-round breakdowns**
-* **Real-time result alerts**
-* **Discord bot integration**
-
-This system interacts with the ESPN API and uses persistent caching and optimized polling logic to ensure timely and accurate updates.
-
-## 🎮 PipeMan
-
-I also enjoy making games. One of my favorite personal projects is **[PipeMan](https://jcbh0.itch.io/pipeman)** — a quirky, puzzle-inspired platformer I developed with a unique control scheme and aesthetic.
+Got it — here’s your revised **README**, separating the *UFC Fight Tracker* and *UFC Event Tracker* projects clearly, written in your requested plain and confident style (Flesch 80+, no buzzwords, no adverbs, active voice):
 
 ---
 
-### 📫 Connect with Me
+# 👋 Jacob Hallum
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jacobhallum) — I’m always open to sharing ideas, feedback, or collaboration opportunities.
+Hi, I’m Jacob Hallum — a software developer who builds real-time systems and sports applications. I focus on creating tools that deliver live data, smooth performance, and reliable results.
+
+## ⚽ GameWatchr (In Progress)
+
+**[GameWatchr](https://github.com/jacohallum/GameWatchr)** is a full-stack sports hub that lets users manage notifications, track teams, and view event highlights across major leagues.
+It is built with:
+
+* **Next.js** and **TypeScript**
+* **PostgreSQL** with **Prisma ORM**
+* Secure sign-in through **NextAuth**
+* Planned features for AI-driven alerts and sentiment insights
+
+## 🥋 UFC Fight Tracker
+
+**[UFC Fight Tracker]** scans official UFC sources to detect new fight announcements, lineup changes, and event updates as they happen.
+It focuses on reliable data tracking and clear automation.
+
+Key features include:
+
+* Automatic detection of new events and fights
+* Tracking for lineup updates, cancellations, and replacements
+* Caching to prevent duplicate alerts
+* **Discord** and **Twitter** integrations for notifications
+
+## 🥊 UFC Event Tracker
+
+The **UFC Event Tracker** monitors ongoing fight nights in real time.
+It captures live results, round details, and fighter stats during active events.
+
+Highlights:
+
+* Live event monitoring and result posting
+* Round-by-round summaries
+* Real-time updates for decisions and finishes
+* Persistent cache and rate-limited API polling for stability
+
+## 🎮 PipeMan
+
+**[PipeMan](https://jcbh0.itch.io/pipeman)** is a puzzle platformer I created with an experimental control system and a simple, hand-drawn style.
+
+---
+
+### 📫 Connect
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/jacobhallum).
+I’m open to discussing code, system design, or collaborative projects that improve how live data is built and shared.
