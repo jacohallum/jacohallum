@@ -1,8 +1,8 @@
-# 👋 Jacob Hallum
+# Jacob Hallum
 
 Hi, I’m Jacob Hallum — a software developer who builds real-time systems and sports applications. I focus on creating tools that deliver live data, smooth performance, and reliable results.
 
-## ⚽ GameWatchr (In Progress)
+## FightWatchr (In Progress)
 
 **[FightWatchr](https://github.com/jacohallum/fightwatchr)** is a full-stack sports hub that lets users manage notifications, track teams, and view event highlights across major leagues.
 It is built with:
@@ -12,7 +12,7 @@ It is built with:
 * Secure sign-in through **NextAuth**
 * Planned features for AI-driven alerts and sentiment insights
 
-## 🥋 UFC Fight Tracker
+## UFC Fight Tracker
 
 **UFC Fight Tracker** scans official UFC sources to detect new fight announcements, lineup changes, and event updates as they happen.
 It focuses on reliable data tracking and clear automation.
@@ -24,7 +24,7 @@ Key features include:
 * Caching to prevent duplicate alerts
 * **Discord** and **Twitter** integrations for notifications
 
-## 🥊 UFC Event Tracker
+## UFC Event Tracker
 
 The **UFC Event Tracker** monitors ongoing fight nights in real time.
 It captures live results, round details, and fighter stats during active events.
