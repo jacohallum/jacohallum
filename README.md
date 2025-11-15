@@ -14,7 +14,7 @@ It is built with:
 
 ## 🥋 UFC Fight Tracker
 
-**[UFC Fight Tracker]** scans official UFC sources to detect new fight announcements, lineup changes, and event updates as they happen.
+**UFC Fight Tracker** scans official UFC sources to detect new fight announcements, lineup changes, and event updates as they happen.
 It focuses on reliable data tracking and clear automation.
 
 Key features include:
