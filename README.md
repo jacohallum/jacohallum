@@ -4,7 +4,7 @@ Hi, I’m Jacob Hallum — a software developer who builds real-time systems and
 
 ## FightWatchr (In Progress)
 
-**[FightWatchr](https://github.com/jacohallum/fightwatchr)** is a full-stack sports hub that lets users manage notifications, track teams, and view event highlights across major leagues.
+**[FightWatchr](https://github.com/jacohallum/fightwatchr)** is a full-stack UFC hub that lets users manage notifications, track fighters, and view event highlights across all events.
 It is built with:
 
 * **Next.js** and **TypeScript**
