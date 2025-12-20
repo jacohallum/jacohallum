@@ -38,7 +38,7 @@ Highlights:
 
 ---
 
-### 📫 Connect
+### Connect
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/jacobhallum).
 I’m open to discussing code, system design, or collaborative projects that improve how live data is built and shared.
