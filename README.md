@@ -24,18 +24,6 @@ Key features include:
 * Caching to prevent duplicate alerts
 * **Discord** and **Twitter** integrations for notifications
 
-## UFC Event Tracker
-
-The **UFC Event Tracker** monitors ongoing fight nights in real time.
-It captures live results, round details, and fighter stats during active events.
-
-Highlights:
-
-* Live event monitoring and result posting
-* Round-by-round summaries
-* Real-time updates for decisions and finishes
-* Persistent cache and rate-limited API polling for stability
-
 ---
 
 ### Connect
