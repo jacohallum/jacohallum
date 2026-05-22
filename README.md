@@ -1,32 +1,46 @@
 # Jacob Hallum
 
-Hi, I’m Jacob Hallum — a software developer who builds real-time systems and sports applications. I focus on creating tools that deliver live data, smooth performance, and reliable results.
+Hi, I'm Jacob Hallum, a software developer who builds real-time systems and desktop tools. I focus on reliable data pipelines, smooth UI performance, and clean architecture.
 
 ## FightWatchr (In Progress)
 
-**[FightWatchr](https://github.com/jacohallum/fightwatchr)** is a full-stack UFC hub that lets users manage notifications, track fighters, and view event highlights across all events.
-It is built with:
+**[FightWatchr](https://github.com/jacohallum/fightwatchr)** is a full-stack UFC hub live at [fightwatchr.com](https://fightwatchr.com) for tracking fighters, events, and live fight data. Users can manage notification preferences, follow fighters by division, and get live event updates powered by an ESPN data pipeline.
+
+Built with:
 
 * **Next.js** and **TypeScript**
 * **PostgreSQL** with **Prisma ORM**
 * Secure sign-in through **NextAuth**
-* Planned features for AI-driven alerts and sentiment insights
+* Incremental ESPN sync scheduler that auto-refreshes event and fighter data every 6 hours
+* AI-driven predictions and sentiment insights (in development)
 
-## UFC Fight Tracker
+## BeatHunter (In Progress)
 
-**UFC Fight Tracker** scans official UFC sources to detect new fight announcements, lineup changes, and event updates as they happen.
-It focuses on reliable data tracking and clear automation.
+**[BeatHunter](https://github.com/jacohallum/BeatHunter)** is a local desktop app that compares your Apple Music protected library against your owned clean music and surfaces tracks you're missing a DRM-free copy of. An approval-gated download workflow lets you queue and organize replacements without ever touching your iTunes library.
 
-Key features include:
+Built with:
 
-* Automatic detection of new events and fights
-* Tracking for lineup updates, cancellations, and replacements
-* Caching to prevent duplicate alerts
-* **Discord** and **Twitter** integrations for notifications
+* **Python 3.13** and **PyQt6**
+* **SQLite** for library cache, download queue, and coverage tracking
+* **mutagen** for audio metadata and quality detection
+* Background workers so the GUI never blocks on I/O
+* Strict read-only safety: iTunes Media is never written to
+
+## iTunes Shuffler
+
+**[iTunes Shuffler](https://github.com/jacohallum/Music-Shuffler)** is a custom music player for large iTunes/M4A libraries. A weighted shuffle algorithm factors in play count, rating, recency, loved status, and skip history to surface tracks intelligently across 8K+ songs.
+
+Key features:
+
+* Smart shuffle weighted across six listening signals
+* Background M4A pre-conversion via FFmpeg for instant playback
+* Album artwork display and Up Next queue
+* Global media keys (F5-F8) system-wide
+* Full library search and filter
 
 ---
 
 ### Connect
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/jacobhallum).
-I’m open to discussing code, system design, or collaborative projects that improve how live data is built and shared.
+You can find me on [LinkedIn](https://www.linkedin.com/in/jacobhallum).  
+Open to discussing code, system design, or projects that push real data into clean interfaces.
